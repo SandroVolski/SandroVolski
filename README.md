@@ -1,4 +1,4 @@
-# Olá, eu sou o Sandro 👋
+﻿# Olá, eu sou o Sandro 👋
 
 **Desenvolvedor Full-Stack** · Bacharel em Ciência da Computação (Unicentro) · Pós-graduado em Inteligência Artificial e em Cybersecurity · Irati/PR
 
@@ -20,7 +20,7 @@ Crio produtos do banco de dados à interface, para web e mobile, com inteligênc
 - **[GAN-Colab](https://github.com/SandroVolski/GAN-Colab)**: notebook do TCC com redes generativas (GANs).
 - **[EscolaMusica](https://github.com/SandroVolski/EscolaMusica)**: sistema de gestão para escola de música (React e Firebase), do estágio supervisionado.
 - **[TargetDesafio](https://github.com/SandroVolski/TargetDesafio)**: prova técnica com exercícios em Python e C++.
-- **[projetos-academicos](https://github.com/SandroVolski/projetos-academicos)**: trabalhos da graduação, organizados por disciplina.
+- **[projetos-academicos](https://github.com/SandroVolski/projetos-academicos)**: trabalhos e exercícios da graduação, uma pasta por projeto.
 
 ## Tecnologias
 
